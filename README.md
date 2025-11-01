@@ -1,4 +1,4 @@
-# AI Blog Generator using Flask & Hugging Face
+# LLM powered Blog post generator.
 
 This project is a simple **AI-powered Blog Generator** built using **Flask** and **Hugging Face Inference API**.  
 It allows users to generate well-structured blog posts by providing a topic and a desired word limit.  
