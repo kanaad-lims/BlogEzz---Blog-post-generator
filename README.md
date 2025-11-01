@@ -1,4 +1,4 @@
-# LLM powered Blog post generator.
+# BlogEzz - Blog Post Generator
 
 This project is a simple **AI-powered Blog Generator** built using **Flask** and **Hugging Face Inference API**.  
 It allows users to generate well-structured blog posts by providing a topic and a desired word limit.  
